@@ -1,0 +1,10 @@
+@import "../../index.scss";
+body {
+  .footer {
+    bottom: 0;
+    height: 2rem;
+    width: 100%;
+    background: $mainBlack;
+    position: fixed;
+  }
+}
